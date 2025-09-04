@@ -14,3 +14,5 @@ Features:
 - Redirect handler at `/:code` with click tracking (timestamp, source, locale)
 - Statistics page listing all links, expiry and detailed clicks
 - Lightweight client logging stored in `localStorage`
+  
+<img width="1358" height="625" alt="image" src="https://github.com/user-attachments/assets/0682b159-b780-43d4-8eaa-af8b8120327e" />
